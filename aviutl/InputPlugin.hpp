@@ -2,8 +2,8 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/InputInfo.hpp>
-#include <aviutl/InputHandle.hpp>
+#include "InputInfo.hpp"
+#include "InputHandle.hpp"
 
 namespace AviUtl{
     namespace detail {

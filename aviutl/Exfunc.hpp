@@ -2,14 +2,14 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/pixel.hpp>
-#include <aviutl/AviFileHandle.hpp>
-#include <aviutl/MultiThreadFunc.hpp>
-#include <aviutl/EditHandle.hpp>
-#include <aviutl/FrameStatus.hpp>
-#include <aviutl/FileInfo.hpp>
-#include <aviutl/SysInfo.hpp>
-#include <aviutl/SharedMemory.hpp>
+#include "pixel.hpp"
+#include "AviFileHandle.hpp"
+#include "MultiThreadFunc.hpp"
+#include "EditHandle.hpp"
+#include "FrameStatus.hpp"
+#include "FileInfo.hpp"
+#include "SysInfo.hpp"
+#include "SharedMemory.hpp"
 
 namespace AviUtl{
 

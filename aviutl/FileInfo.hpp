@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-#include <aviutl/flag.hpp>
+#include "flag.hpp"
 
 namespace AviUtl {
 	struct FileInfo {

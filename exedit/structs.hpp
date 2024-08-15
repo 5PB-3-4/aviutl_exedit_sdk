@@ -1,7 +1,7 @@
 #pragma once
 #include <Windows.h>
 
-#include <exedit/Object.hpp>
+#include "Object.hpp"
 
 namespace ExEdit {
     struct struct_exfunc0x04 {

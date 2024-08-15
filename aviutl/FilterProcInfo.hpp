@@ -1,9 +1,9 @@
 #pragma once
 #include <cstdint>
 
-#include <aviutl/flag.hpp>
-#include <aviutl/pixel.hpp>
-#include <aviutl/EditHandle.hpp>
+#include "flag.hpp"
+#include "pixel.hpp"
+#include "EditHandle.hpp"
 
 namespace AviUtl{
     struct FilterProcInfo {

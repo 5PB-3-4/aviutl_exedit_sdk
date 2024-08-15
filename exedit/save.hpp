@@ -1,9 +1,9 @@
 #pragma once
 #include <cstdint>
 
-#include <exedit/scene.hpp>
-#include <exedit/layer.hpp>
-#include <exedit/Filter.hpp>
+#include "scene.hpp"
+#include "layer.hpp"
+#include "Filter.hpp"
 
 namespace ExEdit {
     struct SaveHeader {

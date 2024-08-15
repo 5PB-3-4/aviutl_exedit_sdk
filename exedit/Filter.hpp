@@ -2,10 +2,10 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/flag.hpp>
-#include <aviutl/filter.hpp>
-#include <exedit/ObjectFilterIndex.hpp>
-#include <exedit/exdata.hpp>
+#include "../aviutl/flag.hpp"
+#include "../aviutl/filter.hpp"
+#include "ObjectFilterIndex.hpp"
+#include "exdata.hpp"
 
 namespace ExEdit {
     struct Exfunc;

@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-#include <aviutl/flag.hpp>
+#include "../aviutl/flag.hpp"
 
 namespace ExEdit {
     namespace detail {

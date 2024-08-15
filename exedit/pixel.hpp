@@ -1,6 +1,6 @@
 #pragma once
 #include <cstdint>
-#include <aviutl/pixel.hpp>
+#include "../aviutl/pixel.hpp"
 
 namespace ExEdit{
     using PixelBGR = AviUtl::PixelBGR;

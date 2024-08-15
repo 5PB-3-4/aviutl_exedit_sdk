@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 
-#include <exedit/pixel.hpp>
+#include "pixel.hpp"
 
 namespace ExEdit {
     struct ZBufferElm {

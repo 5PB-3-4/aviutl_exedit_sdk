@@ -1,6 +1,6 @@
 #pragma once
 
-#include <aviutl/InputPlugin.hpp>
+#include "InputPlugin.hpp"
 
 namespace AviUtl{
     using GetInputPluginTable_t = InputPluginDLL*(__stdcall*)();

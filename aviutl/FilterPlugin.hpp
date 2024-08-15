@@ -2,10 +2,10 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/flag.hpp>
-#include <aviutl/EditHandle.hpp>
-#include <aviutl/FilterProcInfo.hpp>
-#include <aviutl/Exfunc.hpp>
+#include "flag.hpp"
+#include "EditHandle.hpp"
+#include "FilterProcInfo.hpp"
+#include "Exfunc.hpp"
 
 namespace AviUtl{
     namespace detail{

@@ -1,6 +1,6 @@
 #pragma once
 
-#include <aviutl/FilterPlugin.hpp>
+#include "FilterPlugin.hpp"
 
 namespace AviUtl{
     using GetFilterTable_t = FilterPluginDLL*(__stdcall*)();

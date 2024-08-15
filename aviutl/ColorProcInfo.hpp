@@ -2,9 +2,9 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/flag.hpp>
-#include <aviutl/pixel.hpp>
-#include <aviutl/MultiThreadFunc.hpp>
+#include "flag.hpp"
+#include "pixel.hpp"
+#include "MultiThreadFunc.hpp"
 
 namespace AviUtl {
     struct ColorProcInfo {

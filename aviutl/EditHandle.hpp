@@ -1,9 +1,9 @@
 #pragma once
 #include <cstdint>
 
-#include <aviutl/flag.hpp>
-#include <aviutl/Color.hpp>
-#include <aviutl/aviutl_window_info_t.hpp>
+#include "flag.hpp"
+#include "Color.hpp"
+#include "aviutl_window_info_t.hpp"
 
 namespace AviUtl {
 	struct SAV3 {

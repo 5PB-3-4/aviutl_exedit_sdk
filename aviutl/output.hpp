@@ -1,7 +1,7 @@
 #pragma once
 
-#include <aviutl/OutputInfo.hpp>
-#include <aviutl/OutputPlugin.hpp>
+#include "OutputInfo.hpp"
+#include "OutputPlugin.hpp"
 
 namespace AviUtl{
     using GetOutputPluginTable_t = OutputPluginDLL*(__stdcall*)();

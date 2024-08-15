@@ -1,11 +1,11 @@
 #pragma once
 #include <cstdint>
 
-#include <aviutl/pixel.hpp>
-#include <aviutl/flag.hpp>
-#include <exedit/pixel.hpp>
-#include <exedit/Object.hpp>
-#include <exedit/ObjectFilterIndex.hpp>
+#include "../aviutl/pixel.hpp"
+#include "../aviutl/flag.hpp"
+#include "pixel.hpp"
+#include "Object.hpp"
+#include "ObjectFilterIndex.hpp"
 
 namespace ExEdit {
     struct FilterProcInfo {

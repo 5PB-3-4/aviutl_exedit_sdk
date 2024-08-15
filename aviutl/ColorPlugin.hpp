@@ -2,8 +2,8 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/flag.hpp>
-#include <aviutl/ColorProcInfo.hpp>
+#include "flag.hpp"
+#include "ColorProcInfo.hpp"
 
 namespace AviUtl {
     namespace detail {

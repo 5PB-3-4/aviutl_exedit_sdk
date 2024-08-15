@@ -2,7 +2,7 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/flag.hpp>
+#include "flag.hpp"
 
 namespace AviUtl{
     struct OutputInfo {

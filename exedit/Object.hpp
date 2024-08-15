@@ -2,7 +2,7 @@
 #include <cstdint>
 #include <Windows.h>
 
-#include <aviutl/flag.hpp>
+#include "../aviutl/flag.hpp"
 
 namespace ExEdit {
 	struct Object {

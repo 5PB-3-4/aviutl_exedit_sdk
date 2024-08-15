@@ -1,6 +1,6 @@
 #pragma once
 
-#include <aviutl/ColorPlugin.hpp>
+#include "ColorPlugin.hpp"
 
 namespace AviUtl {
     using GetColorPluginTable_t = ColorPluginDLL*(__stdcall*)();

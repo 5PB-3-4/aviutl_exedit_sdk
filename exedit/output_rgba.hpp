@@ -3,7 +3,7 @@
 #include <stdexcept>
 #include <Windows.h>
 
-#include <exedit/pixel.hpp>
+#include "pixel.hpp"
 
 namespace ExEdit {
     struct OutputData {
